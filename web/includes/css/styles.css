@@ -1,0 +1,171 @@
+/*
+
+My Custom CSS
+=============
+
+*/
+ul,li { margin:0; padding:0; list-style:nont;}
+.bg
+{
+	background:url(learn-your-way.jpg) fixed;
+}
+.header
+{
+	padding:30px;
+	background-color: #f2f2f2;	
+	border-top:solid 3px #2E8636;
+}
+.logo-hyper
+{
+	text-decoration:none;
+	color:#454e45;
+	font-family: Verdana, Geneva, sans-serif;
+	
+	font-size:30px;
+}
+.logo-hyper:hover
+{
+	text-decoration:none;
+	color:#2E8636;
+}
+.box
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+	background-color:#F3F3F3;
+	opacity:0.9;
+	border-radius:4px;
+}
+.box h5
+{
+	background-color:#2E8636;
+	padding:25px;
+	color:#FFF;
+}
+.notice-box
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	height:300px;
+	background-color:#F3F3F3;
+	opacity:0.9;
+	border-radius:4px;
+}
+.notice-box h5
+{
+	background-color:#2E8636;
+	padding:25px;
+	color:#FFF;
+}
+.notice-box p
+{
+	padding-left:25px;
+	line-height: 1.5;
+
+}
+.marquee p
+{
+	color:#069;
+	padding:10px;
+	border-bottom:dotted 1px #CCCCCC;
+}
+.about-row
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	height:200px;
+	background-color:#F3F3F3;
+	opacity:0.98;
+	border-radius:4px;
+}
+.about-row h5
+{
+	background-color: #454e45;
+	padding:25px;
+	color:#FFF;
+}
+.menu
+{
+	padding:20px 40px 10px 40px;
+	margin-top:20px;
+	margin-bottom:20px;	
+	background-color:#454e45;	
+	border-radius:4px;
+	color:#FFF;
+}
+.menu1 a
+{
+	text-decoration:none;
+	color:#fff;
+}
+.menu1 a:hover
+{
+	text-decoration:none;
+	color:#2E8636;
+}
+.notice-table
+{
+	padding: 10px;
+	margin-top:20px;
+	margin-bottom:20px;
+	background-color:#F3F3F3;
+	opacity:1;
+	border-radius:4px;
+}
+
+.footer
+{
+	padding:20px;
+	background-color: #000;
+	color:#FFF;
+}
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
